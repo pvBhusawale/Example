@@ -1,0 +1,26 @@
+.Header_sec{
+    width: 100px;
+    height: 50%;
+    background-color:violet;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 0px 3%;
+}
+
+.header_sec .logo{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.header_sec .links{
+    display: flex;
+    align-items:center ;
+    gap: 20px;
+}
+
+.header_sec .links a{
+    text-decoration: none;
+    color: aliceblue;
+  
+}
